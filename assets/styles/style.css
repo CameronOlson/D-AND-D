@@ -1,6 +1,6 @@
 
 .tall{
-  min-height: 25vh;
+  height: 40vh;
 }
 .medium{
   min-height: 20vh;
@@ -13,10 +13,10 @@
   translateX(7px)
 }
 .text-font{
-  font-family: besley;
+  font-family: 'UnifrakturCook', cursive;
 }
 .background{
-  background-image: url(https://images.squarespace-cdn.com/content/v1/52993d5ce4b0c5f2207d6d67/1434311859163-DNAKXT0CD10JPLRSE4BJ/boise-idaho-real-estate-photography-interior.jpg?format=2500w);
+  background-image: url(https://www.belloflostsouls.net/wp-content/uploads/2019/05/EN_Monster_Kobold_Header.jpg);
   background-size: cover;
 }
 .background-2{
