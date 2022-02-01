@@ -2,6 +2,10 @@
 .tall{
   height: 40vh;
 }
+.shadow{
+  text-shadow: 2px 2px #000000;
+  font-size: 20px;
+}
 .medium{
   min-height: 20vh;
 }
@@ -36,7 +40,7 @@
 
 .gradient{
   background: rgb(19,11,16);
-  background: linear-gradient(230deg, rgba(19,11,16,1) 18%, rgba(96,68,29,1) 91%);
+  background: linear-gradient(230deg, rgba(19,11,16,1) 18%, rgb(117, 21, 18) 91%);
 }
 .compliment{
   background-color: #CCBFAD;
